@@ -53,7 +53,7 @@ Anda dapat melihat dashboard interaktif secara langsung melalui tautan berikut:
 Berikut adalah tampilan dari dashboard yang telah dibuat:
 
 ![Dashboard Overview]
-*(Ganti `path/to/your/image.png` dengan lokasi file gambar yang kamu upload di repo GitHub, atau biarkan kosong jika belum ada gambar)*
+*(Ganti `[path/to/your/image.png](https://github.com/nuraiini/Penduduk-Indonesia/blob/main/Screenshot%202025-12-17%20004533.png)` dengan lokasi file gambar yang kamu upload di repo GitHub, atau biarkan kosong jika belum ada gambar)*
 
 ---
 
