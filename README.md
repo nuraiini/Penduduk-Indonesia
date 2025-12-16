@@ -44,7 +44,7 @@ Data yang digunakan dalam proyek ini bersumber dari data publik resmi:
 
 Anda dapat melihat dashboard interaktif secara langsung melalui tautan berikut:
 
-[🔗 **Klik di sini untuk melihat Dashboard**]([(https://lookerstudio.google.com/reporting/ab18a092-4665-4eac-a80d-039ad824ed91/page/VgeiF)])
+[🔗 **Klik di sini untuk melihat Dashboard**](https://lookerstudio.google.com/reporting/ab18a092-4665-4eac-a80d-039ad824ed91/page/VgeiF)
 
 
 
@@ -53,7 +53,8 @@ Anda dapat melihat dashboard interaktif secara langsung melalui tautan berikut:
 Berikut adalah tampilan dari dashboard yang telah dibuat:
 
 ![Dashboard Overview]
-*(Ganti `[path/to/your/image.png](https://github.com/nuraiini/Penduduk-Indonesia/blob/main/Screenshot%202025-12-17%20004533.png)` dengan lokasi file gambar yang kamu upload di repo GitHub, atau biarkan kosong jika belum ada gambar)*
+<img width="1411" height="1050" alt="image" src="https://github.com/user-attachments/assets/b9bf48be-19c1-4b32-96bc-8018b9fb3869" />
+
 
 ---
 
