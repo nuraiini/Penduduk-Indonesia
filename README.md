@@ -52,7 +52,6 @@ Anda dapat melihat dashboard interaktif secara langsung melalui tautan berikut:
 
 Berikut adalah tampilan dari dashboard yang telah dibuat:
 
-![Dashboard Overview]
 <img width="1411" height="1050" alt="image" src="https://github.com/user-attachments/assets/b9bf48be-19c1-4b32-96bc-8018b9fb3869" />
 
 
