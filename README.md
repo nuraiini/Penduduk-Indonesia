@@ -44,9 +44,9 @@ Data yang digunakan dalam proyek ini bersumber dari data publik resmi:
 
 Anda dapat melihat dashboard interaktif secara langsung melalui tautan berikut:
 
-[🔗 **Klik di sini untuk melihat Dashboard**]([MASUKKAN_LINK_LOOKER_STUDIO_KAMU_DISINI](https://lookerstudio.google.com/reporting/ab18a092-4665-4eac-a80d-039ad824ed91/page/VgeiF))
+[🔗 **Klik di sini untuk melihat Dashboard**]([(https://lookerstudio.google.com/reporting/ab18a092-4665-4eac-a80d-039ad824ed91/page/VgeiF)])
 
-*(Catatan: Pastikan akses link Looker Studio kamu sudah diatur ke "Public" atau "Anyone with the link can view")*
+
 
 ## 📸 Cuplikan (Screenshots)
 
