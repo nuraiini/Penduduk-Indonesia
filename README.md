@@ -1,7 +1,7 @@
 # Eksplorasi Spasial Data Penduduk Indonesia 🇮🇩
 
 ![Status Projek](https://img.shields.io/badge/Status-Completed-success)
-![Platform](https://img.shields.io/badge/Platform-Google%20Looker%20Studio-blue)
+[![Platform](https://img.shields.io/badge/Platform-Google%20Looker%20Studio-blue)](https://lookerstudio.google.com/reporting/ab18a092-4665-4eac-a80d-039ad824ed91)
 [![Data Source](https://img.shields.io/badge/Data-BPS-orange)](https://www.bps.go.id/id)
 
 ## 📌 Gambaran Umum (Overview)
