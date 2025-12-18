@@ -2,7 +2,7 @@
 
 ![Status Projek](https://img.shields.io/badge/Status-Completed-success)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Looker%20Studio-blue)
-![Data Source](https://img.shields.io/badge/Data-BPS-orange)
+[![Data Source](https://img.shields.io/badge/Data-BPS-orange)](https://www.bps.go.id/id)
 
 ## 📌 Gambaran Umum (Overview)
 
